@@ -1,9 +1,11 @@
+import StudentListItem from "../StudentListItem";
+
 const StudentList = ({ students }) => {
   return (
     <ul>
       {students &&
         students.map((student) => {
-          return <li>{student.name}</li>;
+          return <StudentListItem student={student} key={student.id} />;
         })}
     </ul>
   );
