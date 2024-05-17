@@ -1,0 +1,35 @@
+.bag{
+    width: 100%;
+    padding: 40px 0;
+
+    .bag-inner{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .bag-card{
+            width: 264px;
+            height: 162px;
+            padding: 20px;
+            background-color: #F5F5F5;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            img{
+                width: 207px;
+                left: 100px;
+                top: 50px;
+                // position: absolute;
+
+            }
+
+            h3{
+                margin: 0;
+                color: #000;
+                font-size: 18px;
+                font-family: Poppins;
+                font-weight: 500;
+            }
+        }
+    }
+}

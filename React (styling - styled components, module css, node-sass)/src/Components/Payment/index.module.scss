@@ -1,0 +1,28 @@
+.payment{
+    padding: 45px 0;
+    background-color: #F7F7F7;
+
+    .payment-inner{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        span{
+            display: flex;
+            align-items: center;
+            gap: 0 10px;
+
+            .payment-icon{
+                font-size: 30px;
+                color: #007878;
+            }
+
+            p{
+                color: #000;
+                font-family: Poppins;
+                font-weight: 500;
+                font-size: 16px;
+            }
+        }
+    }
+}

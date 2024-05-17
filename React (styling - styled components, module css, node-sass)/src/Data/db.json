@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "image": "../../assets/images/bag-1.png",
+            "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+            "price": "130.00",
+            "oldPrice": "340.00",
+            "category": "bag"
+        },
+        {
+            "id": "2",
+            "image": "../../assets/images/bag-2.png",
+            "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+            "price": "130.00",
+            "oldPrice": "340.00",
+            "category": "bag"
+        },
+        {
+            "id": "3",
+            "image": "../../assets/images/bag-3.png",
+            "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+            "price": "130.00",
+            "oldPrice": "340.00",
+            "category": "bag"
+        },
+        {
+            "id": "4",
+            "image": "../../assets/images/bag-4.png",
+            "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+            "price": "130.00",
+            "oldPrice": "340.00",
+            "category": "bag"
+        }
+    ]
+}
